@@ -1,4 +1,4 @@
-# firebase_auth_with_get_state
+# Scan document with blinkid
 
 flutter firebase auth and get state app
 
